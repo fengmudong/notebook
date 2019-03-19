@@ -1,7 +1,6 @@
 name: nb36
 channels:
   - conda-forge
-  - omnia
   - defaults
 dependencies:
   - attrs=18.2.0
@@ -102,4 +101,3 @@ dependencies:
   - xz=5.2.4
   - zeromq=4.2.5
   - zlib=1.2.11
-prefix: /home/winter/anaconda3/envs/nb36
