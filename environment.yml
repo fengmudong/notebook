@@ -52,7 +52,7 @@ dependencies:
   - mkl=2019.1=144
   - mkl_fft=1.0.10=py36h14c3975_1
   - mkl_random=1.0.2=py36h637b7d7_2
-  - nbconvert=5.3.1=py_1
+  - # nbconvert=5.3.1=py_1
   - nbformat=4.4.0=py_1
   - ncurses=6.1=hf484d3e_1002
   - nglview=1.1.9=py_0
